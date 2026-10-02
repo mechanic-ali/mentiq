@@ -1,0 +1,6 @@
+{
+  "name": "Məntiq Quiz",
+  "description": "91 Məntiq və Qanunauyğunluq testi: İzahlar, vizual qrafiklər, ipucları və statistika",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
